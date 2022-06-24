@@ -3,3 +3,4 @@ New line for branch feature1
 Another line for branch feature1
 Hello from new branch
 New line to discuss pull requests
+Git GUI Tools
