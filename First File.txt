@@ -1,1 +1,3 @@
 This is my new line
+New line for branch feature1
+Another line for branch feature1
