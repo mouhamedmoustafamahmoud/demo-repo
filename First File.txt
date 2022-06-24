@@ -2,5 +2,3 @@ This is updated new line
 New line for branch feature1
 Another line for branch feature1
 Hello from new branch
-
-
